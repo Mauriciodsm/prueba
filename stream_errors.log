@@ -1,0 +1,10 @@
+ERROR:root:Error al recibir el frame del stream en el frame 0
+2024-06-16 02:11:14,542 DEBUG:Iniciando prueba de estabilidad de la red
+2024-06-16 02:13:06,727 DEBUG:Iniciando prueba de estabilidad de la red
+2024-06-16 02:13:06,749 DEBUG:Resultados de ping:
+Acceso denegado. La opci¢n -c requiere privilegios administrativos.
+
+2024-06-16 02:13:06,749 DEBUG:Iniciando prueba de ancho de banda
+2024-06-16 02:13:10,993 ERROR:Error al recibir el frame del stream en el frame 0
+2024-06-16 02:13:10,994 DEBUG:Reintentando abrir el stream (intento 1/5)...
+2024-06-16 02:13:14,068 DEBUG:Stream RTSP reconectado exitosamente
